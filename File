@@ -1,5 +1,7 @@
 #EXTM3U
 
+               ====COPA AMERICA 2024=====
+
 #EXTINF:-1 tvg-id="425.stations.xmltv.tvmedia.ca" tvg-name="RPC (PA)(R)" tvg-logo="https://seeklogo.com/images/R/rpc-television-panama-logo-80CBBDFD41-seeklogo.com.png" group-title="COPA AMERICA 2024",RPC 
 http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
 
