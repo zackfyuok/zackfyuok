@@ -1,9 +1,8 @@
-EXTM3U
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://hometv.pw/logo/lokal/mnctv.png" group-title="INDONESIA",MNC TV (R+)
-#EXTVLCOPT:http-user-agent=android-R+ 
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com// https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#EXTINF:-1 tvg-id="SS Action" tvg-name="SS Action" tvg-logo="https://id.wikipedia.org/wiki/Liga_Negara_Bola_Voli_Putra_FIVB_Volleyball_Nations_League_logo.jpg" group-title="LIVE VNL",LINK 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.onlinehdhls.ru/lb/premium420/index.m3u8|Origin=https://lewblivehdplay.ru
 
-#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="INDONESIA",INDOSIAR HD https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://hometv.pw/logo/lokal/rcti.png" group-title="INDONESIA",RCTI (R+) 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/[537.36](tel:53736) (KHTML, like Gecko) Chrome/[96.0.4664.45](tel:960466445) Mobile Safari/[537.36](tel:53736) https://1a-rcti.rctiplus.id/rcti-sdi.mpd
+
+
