@@ -1,12 +1,37 @@
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="LIVE", EURO24 1
-https://m.jalalive2.com/#/player?id=322574&liveType=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Live", INDOSIAR 1
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
 
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="LIVE", EURO24 2
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/5
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="Live", SCTV 1
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162141
 
-#EXTINF:-1 tvg-logo="https://assets.skor.id/crop/19x22:1003x575/x/photo/2021/10/06/3001002249.jpg" group-title="LIVE", EURO24 3
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/6
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Live", INDOSIAR 2
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
-#EXTINF:-1 tvg-logo="https://github.com/zackfyuok/zackfyuok/blob/9edcb272429fdf0f4286f038e846fd942d00a0a3/images.png" group-title="LIVE", CH 1
-http://vipkely.xyz:8080/VIP019171302919167/f220f5755c78/5281
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="Live", SCTV 2
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/lokal2/indosiar2.png"  group-title="Live",INDOSIAR 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+        =====emtek=====
+
+#EXTINF:-1 tvg-id="" group-title="EMTEK GROUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL4fRL6x9poEVU3020u62P9wK6AozOArSmUA&s",INDOSIAR 
+http://108.181.132.217:8070/e9cd5f24/079fd2c9/162138
+#EXTINF:-1 tvg-id="" group-title="EMTEK GROUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL4fRL6x9poEVU3020u62P9wK6AozOArSmUA&s",SCTV
+http://108.181.123.13:8070/e9cd5f24/079fd2c9/162141
+#EXTINF:-1 tvg-id="" group-title="EMTEK GROUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL4fRL6x9poEVU3020u62P9wK6AozOArSmUA&s",MOJI
+http://194.120.144.74:8070/e9cd5f24/079fd2c9/298550
+
+#EXTINF:-1 tvg-id="" group-title="EMTEK GROUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL4fRL6x9poEVU3020u62P9wK6AozOArSmUA&s",INDOSIAR 
+http://108.181.132.217:8070/AmirBilali/76448035/162138
+#EXTINF:-1 tvg-id="" group-title="EMTEK GROUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL4fRL6x9poEVU3020u62P9wK6AozOArSmUA&s",SCTV
+http://108.181.123.13:8070/AmirBilali/76448035/162141
+#EXTINF:-1 tvg-id="" group-title="EMTEK GROUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL4fRL6x9poEVU3020u62P9wK6AozOArSmUA&s",MOJI
+http://194.120.144.74:8070/AmirBilali/76448035/298550
+
+#EXTINF:-1 tvg-logo="https://iili.io/JyikDNV.png" group-title="PINOY SPORTS",One Sports
+https://bit.ly/4dIklUF
+ 
+#EXTINF:-1 tvg-logo="https://iili.io/JmUqLrl.png" group-title="PINOY SPORTS",One Sports+
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp.m3u8
